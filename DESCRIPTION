@@ -1,0 +1,37 @@
+Package: marxanui
+Version: 0.1
+Date: 6/20/2014
+Title: Marxan User Interfaces
+Description: A series of Marxan user interfaces to import datasets, run Marxan,
+    edit parameters, run parameter tests, and visualise output maps, figures, and
+    tables.
+Author: Matthew E Watts <m.watts@uq.edu.au>
+Maintainer: Matthew E Watts <m.watts@uq.edu.au>
+License: GNU AGPLv3 + LICENSE
+Depends:
+    R (>= 3.3.0)
+Imports:
+    doParallel,
+    foreach,
+    foreign,
+    gplots,
+    Hmisc,
+    iptools,
+    labdsv,
+    leaflet,
+    maptools,
+    PBSmapping,
+    png,
+    rgdal,
+    rgeos,
+    rhandsontable,
+    rjson,
+    shiny,
+    shinyBS,
+    sp,
+    sqldf,
+    vegan,
+    xtable
+Suggests:
+    marxan
+RoxygenNote: 5.0.1

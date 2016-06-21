@@ -1,0 +1,48 @@
+div.banner {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+div.login { 
+  text-align: left;
+  position:absolute;
+  top: 310px;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -150px;
+} 
+ 
+div.lpanel{
+  position: absolute;
+  left: 1px;
+  top: 1px;
+}
+
+div#pass {
+  text-align: left;
+  font-weight:bold;
+  padding-left:2px;
+}
+ 
+input#Password {
+  -webkit-text-security: disc;
+}
+ 
+body {
+  margin:1cm;
+  font-size: 12px;
+}
+ 
+.shiny-output-error {
+  visibility: hidden;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
