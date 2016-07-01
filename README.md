@@ -6,7 +6,7 @@ marxanui (under development)
 
 #### This R package contains Marxan user interfaces for Windows, Mac and Linux. You can import your datasets, run Marxan, edit parameters, run parameter tests, and visualise output maps, figures, and tables. The user interfaces are derived from marxan.io web apps.
 
-**If this R package helped you, please cite it along with the main Marxan citation.**
+**If this R package helped you, please cite it along with the relevant Marxan citation.**
 
 Ball, I.R., Possingham, H.P., and Watts, M.E. 2009. Marxan and relatives: Software for spatial conservation prioritisation. Chapter 14: Pages 185-195 in Spatial conservation prioritisation:   Quantitative methods and computational tools. Eds Moilanen, A., Wilson, K.A., Possingham H.P. Oxford University Press, Oxford, UK.
 
